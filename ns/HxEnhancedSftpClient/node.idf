@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_nsName">HxEnhancedSftpClient</value>
+  <value name="is_public">false</value>
+  <value name="shared">cHJpdmF0ZSBzdGF0aWMgU0ZUUFNlc3Npb25NYW5hZ2VyIHNmdHBTZXNzaW9uTWFuYWdlciA9IFNG
+VFBTZXNzaW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpOyAgCnByaXZhdGUgc3RhdGljIFNGVFBDbGll
+bnRNYW5hZ2VyIHNmdHBDbGllbnRNYW5hZ2VyID0gU0ZUUENsaWVudE1hbmFnZXIuZ2V0SW5zdGFu
+Y2UoKTsKcHJpdmF0ZSBzdGF0aWMgUmVzb3VyY2VzIHJlc291cmNlcyA9IG5ldyBSZXNvdXJjZXMo
+U2VydmVyLmdldEhvbWVEaXIoKSwgdHJ1ZSk7CnByaXZhdGUgc3RhdGljIEZpbGUgaWRlbnRpdGll
+c0RpciA9IHJlc291cmNlcy5nZXREaXIocmVzb3VyY2VzLmdldFNGVFBEaXIoKSwgImlkZW50aXRp
+ZXMiKTsKcHJpdmF0ZSBzdGF0aWMgUmVzb3VyY2VCdW5kbGUgbXNnQnVuZGxlID0gUmVzb3VyY2VC
+dW5kbGUuZ2V0QnVuZGxlKFdtUHVibGljTXNnQnVuZGxlLmNsYXNzLmdldE5hbWUoKSk7Cgpwcml2
+YXRlIHN0YXRpYyBTRlRQVXNlckFsaWFzIHJldHJpZXZlVXNlckFsaWFzKFN0cmluZyB1c2VyQWxp
+YXMpIHRocm93cyBTRlRQQ2xpZW50RXhjZXB0aW9uLCBWYWxpZGF0aW9uRXhjZXB0aW9uewoJSURh
+dGEgZ2V0VXNlckFsaWFzSW5wdXQgPSBJRGF0YUZhY3RvcnkuY3JlYXRlKCk7CglJRGF0YU1hcCBn
+ZXRVc2VyQWxpYXNJbnB1dE1hcCA9IG5ldyBJRGF0YU1hcChnZXRVc2VyQWxpYXNJbnB1dCk7Cgln
+ZXRVc2VyQWxpYXNJbnB1dE1hcC5wdXQoImFsaWFzIiwgdXNlckFsaWFzKTsKCXJldHVybiBzZnRw
+Q2xpZW50TWFuYWdlci5nZXRVc2VyQWxpYXMoZ2V0VXNlckFsaWFzSW5wdXQpOwp9Cgpwcml2YXRl
+IHN0YXRpYyBTRlRQU2VydmVyQWxpYXMgcmV0cmlldmVTZXJ2ZXJBbGlhcyhTdHJpbmcgc2VydmVy
+QWxpYXMpIHRocm93cyBTRlRQQ2xpZW50RXhjZXB0aW9uLCBWYWxpZGF0aW9uRXhjZXB0aW9uewoJ
+SURhdGEgZ2V0U2VydmVyQWxpYXNJbnB1dCA9IElEYXRhRmFjdG9yeS5jcmVhdGUoKTsKCUlEYXRh
+TWFwIGdldFNlcnZlckFsaWFzSW5wdXRNYXAgPSBuZXcgSURhdGFNYXAoZ2V0U2VydmVyQWxpYXNJ
+bnB1dCk7CglnZXRTZXJ2ZXJBbGlhc0lucHV0TWFwLnB1dCgiYWxpYXMiLCBzZXJ2ZXJBbGlhcyk7
+CglyZXR1cm4gc2Z0cENsaWVudE1hbmFnZXIuZ2V0U2VydmVyQWxpYXNJbmZvKGdldFNlcnZlckFs
+aWFzSW5wdXQpOwp9Cgpwcml2YXRlIHN0YXRpYyBIb3N0S2V5UmVwb3NpdG9yeSBnZXRIb3N0S2V5
+UmVwb3NpdG9yeSgpIHRocm93cyBOb1N1Y2hGaWVsZEV4Y2VwdGlvbiwgU2VjdXJpdHlFeGNlcHRp
+b24sIElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbiwgSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbnsKCUZp
+ZWxkIGZpZWxkID0gU0ZUUENsaWVudE1hbmFnZXIuY2xhc3MuZ2V0RGVjbGFyZWRGaWVsZCgic2Z0
+cFN2ckFsaWFzTWFuYWdlciIpOwoJZmllbGQuc2V0QWNjZXNzaWJsZSh0cnVlKTsKCXJldHVybiAo
+SG9zdEtleVJlcG9zaXRvcnkpZmllbGQuZ2V0KHNmdHBDbGllbnRNYW5hZ2VyKTsKfQoKcHJpdmF0
+ZSBzdGF0aWMgU3RyaW5nIHJldHJpdmVQYXNzd29yZEFzU3RyaW5nKFN0cmluZyBwYXNzSGFuZGxl
+KSB0aHJvd3MgUGFzc3dvcmRNYW5hZ2VyRXhjZXB0aW9uewoJU3RyaW5nIHBhc3N3b3JkID0gbnVs
+bDsKCWlmIChwYXNzSGFuZGxlICE9IG51bGwpewoJCVBhc3N3b3JkTWFuYWdlciBwYXNzbWFuID0g
+T3V0Ym91bmRQYXNzd29yZFN0b3JlLmdldFN0b3JlKCk7CgkJV21TZWN1cmVTdHJpbmcgc2VjdXJl
+U3RyaW5nID0gcGFzc21hbi5yZXRyaWV2ZVBhc3N3b3JkKHBhc3NIYW5kbGUpOwoJCXBhc3N3b3Jk
+ID0gc2VjdXJlU3RyaW5nLnRvU3RyaW5nKCk7Cgl9CglyZXR1cm4gcGFzc3dvcmQ7Cn0KCnByaXZh
+dGUgc3RhdGljIFN0cmluZyBnZXRQcml2YXRlS2V5RmlsZShTdHJpbmcga2V5RmlsZW5hbWUpewoJ
+cmV0dXJuIGtleUZpbGVuYW1lID09IG51bGwgPyBudWxsIDogbmV3IEZpbGUoaWRlbnRpdGllc0Rp
+ciwga2V5RmlsZW5hbWUpLmdldEFic29sdXRlUGF0aCgpOwp9Cgk=</value>
+  <value name="encodeutf8">true</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>com.wm.app.b2b.server.Resources</value>
+    <value>com.wm.app.b2b.server.Server</value>
+    <value>com.wm.passman.PasswordManager</value>
+    <value>com.wm.passman.PasswordManagerException</value>
+    <value>com.wm.resources.WmPublicMsgBundle</value>
+    <value>com.wm.security.OutboundPasswordStore</value>
+    <value>com.wm.util.ValidationException</value>
+    <value>com.wm.util.i18n.MessageFormatter</value>
+    <value>com.wm.util.security.WmSecureString</value>
+    <value>com.softwareag.util.IDataMap</value>
+    <value>com.wm.app.b2b.server.sftp.client.*</value>
+    <value>com.jcraft.jsch.*</value>
+    <value>java.io.File</value>
+    <value>java.lang.reflect.Field</value>
+    <value>java.util.Properties</value>
+    <value>java.util.ResourceBundle</value>
+  </array>
+</Values>
